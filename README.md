@@ -4387,3 +4387,5 @@ Logos credits can be found [here](credits.md)
 - [2021-08-23] style: reformat README section — 2021-08-23
 
 - [2021-08-23] docs: add note about experiment — 2021-08-23
+
+- [2021-08-25] fix: small typo in docs — 2021-08-25
