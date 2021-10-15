@@ -4469,3 +4469,5 @@ Logos credits can be found [here](credits.md)
 - [2021-10-14] chore: refresh examples — 2021-10-14
 
 - [2021-10-15] chore(docs): update README — 2021-10-15
+
+- [2021-10-15] chore(docs): update README — 2021-10-15
