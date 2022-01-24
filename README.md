@@ -4577,3 +4577,5 @@ Logos credits can be found [here](credits.md)
 - [2022-01-20] chore: refresh examples — 2022-01-20
 
 - [2022-01-21] fix: small typo in docs — 2022-01-21
+
+- [2022-01-24] style: reformat README section — 2022-01-24
