@@ -4615,3 +4615,5 @@ Logos credits can be found [here](credits.md)
 - [2022-02-15] docs: add note about experiment — 2022-02-15
 
 - [2022-02-18] fix: small typo in docs — 2022-02-18
+
+- [2022-02-18] fix: small typo in docs — 2022-02-18
