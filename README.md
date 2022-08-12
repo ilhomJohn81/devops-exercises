@@ -4875,3 +4875,5 @@ Logos credits can be found [here](credits.md)
 - [2022-08-09] docs: add note about experiment — 2022-08-09
 
 - [2022-08-12] docs: add note about experiment — 2022-08-12
+
+- [2022-08-12] chore: refresh examples — 2022-08-12
