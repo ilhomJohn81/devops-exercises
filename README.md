@@ -4905,3 +4905,5 @@ Logos credits can be found [here](credits.md)
 - [2022-08-29] fix: small typo in docs — 2022-08-29
 
 - [2022-08-29] fix: small typo in docs — 2022-08-29
+
+- [2022-08-31] style: reformat README section — 2022-08-31
